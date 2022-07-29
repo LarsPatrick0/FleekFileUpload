@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Weather",
+            "value": "Clear sky"
+        },
+        {
+            "trait_type": "Terrain",
+            "value": "Rough"
+        },
+        {
+            "trait_type": "Is a bike",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Energy",
+            "value": "5"
+        }
+        
+    ],
+    "description": "Text : Country ride",
+    "image": "https://storageapi.fleek.co/4a523833-7583-4f0f-9adb-1ce2c69ea7c8-bucket/bike1.jpeg",
+    "name": "Country ride"
+  }

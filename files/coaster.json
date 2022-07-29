@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Weather",
+            "value": "Clear sky"
+        },
+        {
+            "trait_type": "Terrain",
+            "value": "Stone"
+        },
+        {
+            "trait_type": "Is a bike",
+            "value": "No"
+        },
+        {
+            "trait_type": "Energy",
+            "value": "1"
+        }
+        
+    ],
+    "description": "Text : Coaster ride",
+    "image": "https://storageapi.fleek.co/4a523833-7583-4f0f-9adb-1ce2c69ea7c8-bucket/coaster.jpeg",
+    "name": "Coaster ride"
+  }

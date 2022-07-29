@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Weather",
+            "value": "Cloudy"
+        },
+        {
+            "trait_type": "Terrain",
+            "value": "Road"
+        },
+        {
+            "trait_type": "Is a bike",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Energy",
+            "value": "3"
+        }
+        
+    ],
+    "description": "Text : Road bike",
+    "image": "https://storageapi.fleek.co/4a523833-7583-4f0f-9adb-1ce2c69ea7c8-bucket/countrystreet.jpeg",
+    "name": "Road bike"
+  }
